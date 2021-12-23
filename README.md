@@ -1,2 +1,2 @@
-# lemonade-android
- Lemonade Android I made learning Kotlin
+# Lemonade
+ Lemonade for Android that I made learning Kotlin.
